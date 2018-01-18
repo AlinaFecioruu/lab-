@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516270119 source:f:\facultate-an1\lab+\lab3-ii5\ii-5.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
